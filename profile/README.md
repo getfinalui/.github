@@ -1,9 +1,7 @@
 <h1 align="center">Welcome to the <a href="https://finalcss.com/">Final UI</a> Design System</h1><br>
 
 <p align="center">
-  <a href="https://finalui/">
-    <img src="https://finalui.com/img/components.png" alt="Example UI" width="100%" style="border:1px solid #ddd; padding:4px">
-  </a>
+    <img src="https://finalui.com/img/components.png" alt="Example UI" width="100%" style="border:1px solid #ddd; padding:4px; display:inline-block">
 </p>
 
 <p align="center">
