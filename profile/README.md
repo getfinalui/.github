@@ -1,12 +1,22 @@
-## Hi there 👋 Welcome to another css library
+<h1 align="center">Welcome to the <a href="https://finalcss.com/">Final UI</a> Design System</h1><br>
 
-<!--
+<p align="center">
+  <a href="https://finalui/">
+    <img src="https://finalui.com/img/components.png" alt="Example UI" width="680">
+  </a>
+</p>
 
-**Here are some ideas to get you started:**
+<p align="center">
+ Design System & UI kit to Design Effective Web Apps, MVPs, Desktop apps and much more
+Ready-made components and patterns. We will continue to add new patterns based on a well-tested methodology. They consist of intuitive and reusable building blocks that are created to work together, resulting in great user experiences.
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+  <a href="https://finalui.com">Final UI</a>
+  ·
+  <a href="https://finalui.medium.com/">Medium</a>
+  ·
+  <a href="https://dribbble.com/final-ui">Dribbble</a>
+  ·
+  <a href="https://linkedin.com/company/finalui">Linkedin</a>
+</p>
