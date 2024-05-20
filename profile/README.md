@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://finalui/">
-    <img src="https://finalui.com/img/components.png" alt="Example UI" width="680">
+    <img src="https://finalui.com/img/components.png" alt="Example UI" width="100%" style="border:1px solid #ddd; padding:4px">
   </a>
 </p>
 
